@@ -1,10 +1,10 @@
 {
-  "name": "component-lib",
+  "name": "react-ui-component-lib-storybook-with-flow-types",
   "version": "0.0.0",
-  "description": "component-lib",
+  "description": "react-ui-component-lib-storybook-with-flow-types",
   "repository": {
     "type": "git",
-    "url": "https://github.com/*"
+    "url": "https://github.com/TimSusa/react-ui-component-lib-storybook-with-flow-types"
   },
   "dependencies": {
     "@storybook/addons": "3.0.0",
@@ -40,9 +40,10 @@
   "keywords": [
     "react",
     "storybook",
-    "component-library"
+    "component-library",
+    "react-ui-component-lib-storybook-with-flow-types"
   ],
-  "author": "*",
-  "license": "*",
+  "author": "Tim Susa",
+  "license": "MIT",
   "false": {}
 }
