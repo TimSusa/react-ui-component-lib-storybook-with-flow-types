@@ -5,7 +5,7 @@ Build your own React-UI-Component-Library with flow-types.
 
 See the stuff happen at components Folder.
 
-## Much thanks and respect to all the people who created Storybook and all its Addons!
+## Much thanks and respect to all the people who created https://storybook.js.org and all its Addons!
 
 # Installation:
 ```yarn```
