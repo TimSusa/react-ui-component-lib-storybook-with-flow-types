@@ -1,0 +1,12 @@
+node_modules
+.DS_Store
+.idea
+npm-debug.log
+/coverage
+/storybook-static
+/constants.js
+/manager.js
+/register.js
+/index.js
+/jsx-to-string.js
+
