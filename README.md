@@ -1,9 +1,11 @@
 # react-ui-component-lib-storybook-with-flow-types
 Preset for react-ui-component-lib-storybook-with-flow-types
 
-Build your own react UI-Component-Library with flow-types.
+Build your own React-UI-Component-Library with flow-types.
 
-See it in actions at components Folder.
+See the stuff happen at components Folder.
+
+## Much thanks and respect to all the people who created Storybook and all its Addons!
 
 # Installation:
 ```yarn```
